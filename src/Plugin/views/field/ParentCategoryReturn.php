@@ -10,12 +10,10 @@ use Drupal\Core\Form\FormStateInterface;
 use Drupal\node\Entity\NodeType;
 use Drupal\node\Entity\Node;
 use Drupal\Core\Config\Entity;
-use Drupal\taxonomy\Entity\Vocabulary;
 use Drupal\views\Plugin\views\field\FieldPluginBase;
 use Drupal\views\ResultRow;
 use Drupal\Core\Url;
 use Drupal\Core\Link;
-use Drupal\Core\Field\BaseFieldDefinition;
 use Drupal\Core\Field;
 use Symfony\Component\HttpFoundation;
 
